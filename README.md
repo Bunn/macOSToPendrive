@@ -4,7 +4,7 @@ Apple Script to create a bootable macOS pendrive
 This is just an utility I've made because I always forget the correct path and arguments to create a bootable macOS pendrive. The AppleScript will just setup the correct command and then move it to the Terminal.app to continue the process from there.
 
 ## How to use
-You can download the binary [HERE](https://github.com/Bunn/macOSToPendrive/releases/download/1.0/macOSToPendrive.app.zip) (It's not signed) or clone the repo and run the script directly.
+You can download the binary [HERE](https://github.com/Bunn/macOSToPendrive/releases/download/2.0/macOSToPendrive.app.zip) or clone the repo and run the script directly.
 
 
 Select your macOS installation app
